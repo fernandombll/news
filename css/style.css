@@ -58,12 +58,17 @@ h6 {
 .btn {
   display: flex;
   align-items: center;
+  justify-content: center;
   background-color: var(--bg-button);
   color: var(--text-button);
   padding: 0.25rem 1rem;
   border: none;
   border-radius: 0.5rem;
   text-decoration: none;
+}
+
+.btn__icon {
+  gap: 0.5rem;
 }
 
 .header {

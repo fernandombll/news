@@ -1,3 +1,3 @@
-## Diana News
+## News
 
-Simple pagina web, practicando lo básico de HTML, CSS y JavaScript.
+El diario de un hombre enamorado.
