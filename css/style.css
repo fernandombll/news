@@ -101,6 +101,10 @@ h6 {
   gap: 0.5rem;
 }
 
+.video {
+  width: 100%;
+}
+
 .news {
   padding-top: 0.5em;
   padding-bottom: 1rem;
